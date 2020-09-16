@@ -13,3 +13,5 @@ I am a very quick learner, and am what I consider to be very technology savvy. I
 * Hello World: Android app
 
 ## Links
+
+[LinkedIn](www.linkedin.com/in/matthew-west-08a4321b6)
