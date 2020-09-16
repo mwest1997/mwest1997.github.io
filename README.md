@@ -8,9 +8,9 @@ I am a very quick learner, and am what I consider to be very technology savvy. I
 
 ## Current Projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/mwest1997/deep-dive-hello-world-ij)
 
-* Hello World: Android app
+* [Hello World: Android app](https://github.com/mwest1997/android-hello-world2)
 
 ## Links
 
