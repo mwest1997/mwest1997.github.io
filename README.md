@@ -15,3 +15,7 @@ I am a very quick learner, and am what I consider to be very technology savvy. I
 ## Links
 
 [LinkedIn](www.linkedin.com/in/matthew-west-08a4321b6)
+
+> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
+> 
+> Every line (blank or not) of a blockquote begins with `>`, followed by a space.
