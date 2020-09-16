@@ -8,4 +8,8 @@ I am a very quick learner, and am what I consider to be very technology savvy. I
 
 ## Current Projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
